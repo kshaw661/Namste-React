@@ -1,0 +1,17 @@
+1. Better Comments 
+2. Bracket pair colorise Toggler
+3. ES7+React/Redux/
+GIT Lens
+HTML CSS SUpport
+Prettier
+Tabnice AI Autocomplete
+Emimtt
+----------------
+Home Work - 
+1. Read about Emmet
+2. CDN
+3. Crossorigin
+4. What is the diffrence between ASYNC AND DEFER
+
+Interview Qiestion - 
+
