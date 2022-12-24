@@ -1,17 +1,19 @@
+Extenstions for VSCode
 1. Better Comments 
-2. Bracket pair colorise Toggler
+2. Bracket Pair Colorization Toggler
 3. ES7+React/Redux/
-GIT Lens
-HTML CSS SUpport
-Prettier
-Tabnice AI Autocomplete
-Emimtt
+4. GitLens
+5. HTML CSS Support
+6. Prettier
+7. Tabnice AI Autocomplete
+8. Emimtt
 ----------------
 Home Work - 
 1. Read about Emmet
+    Emmets are snippets which gives you boiler plate code. Further this code will expanded as per our need.
 2. CDN
 3. Crossorigin
+    Crossorigin is an attgributes that allows serves to share the resource betwen each other and determine who can access this resource.    
 4. What is the diffrence between ASYNC AND DEFER
 
 Interview Qiestion - 
-
