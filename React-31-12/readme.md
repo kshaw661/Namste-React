@@ -27,3 +27,6 @@ Diff between Parcel and Webpack.
 
 -D means dev dependecies. 
 Tilda and Caret in Package-lock.json
+
+
+Start From 50.00 Time
