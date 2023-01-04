@@ -1,0 +1,14 @@
+{
+  "name": "react-31-12",
+  "version": "1.0.0",
+  "description": "This is first test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Kunal",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  }
+}
