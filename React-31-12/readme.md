@@ -42,3 +42,5 @@ Package-lock.json
 
  HMR - Hot Module Reload 
  File watcher algoritham helps HMR to relload the server automatically. This algorithm is written in C++
+
+ 1.42
