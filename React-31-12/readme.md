@@ -1,6 +1,6 @@
 Diffrent Ways to implement React in our JS Application
     1. CDN
-    2. 
+    2. Using Package - npm install react 
 
 What is PROP?
 > Props are basically any thing. This is same as attibutes of the tag. React Passes these Props.
@@ -29,4 +29,12 @@ Diff between Parcel and Webpack.
 Tilda and Caret in Package-lock.json
 
 
-Start From 50.00 Time
+Package-lock.json
+
+"integrity" -  this is the same version which is running on the localsysten and will wants to same version at the sercer. 
+ 
+
+ node_modules are data base of our project.
+
+
+ When we declear as import in js file(import React) then this should be src as type="module" 
