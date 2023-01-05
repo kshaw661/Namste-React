@@ -38,3 +38,7 @@ Package-lock.json
 
 
  When we declear as import in js file(import React) then this should be src as type="module" 
+
+
+ HMR - Hot Module Reload 
+ File watcher algoritham helps HMR to relload the server automatically. This algorithm is written in C++

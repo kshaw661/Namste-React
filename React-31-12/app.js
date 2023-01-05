@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import ReactDOM from 'react-dom/client';
 
 const heading1 = React.createElement("h1", { id: "Hello" }, "Namste Kunal Shaw");
       const heading2 = React.createElement("h3", { id: "Hello" }, "Extenstions for VSCode");
