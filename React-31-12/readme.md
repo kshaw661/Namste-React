@@ -1,4 +1,4 @@
-Igniting OUR APP
+<b>Igniting OUR APP</b>
 
 Diffrent Ways to implement React in our JS Application
     1. CDN
