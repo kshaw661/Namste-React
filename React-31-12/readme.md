@@ -4,6 +4,7 @@ Diffrent Ways to implement React in our JS Application
 
 What is PROP?
 > Props are basically any thing. This is same as attibutes of the tag. React Passes these Props.
+> Parcel is zero config bundlers
 
 Production Ready Parameters - 
 1. We need to minify our app
@@ -43,4 +44,5 @@ Package-lock.json
  HMR - Hot Module Reload 
  File watcher algoritham helps HMR to relload the server automatically. This algorithm is written in C++
 
- 1.42
+ 2.0
+
