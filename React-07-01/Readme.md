@@ -11,3 +11,5 @@ When the react
 
 Virtual Dom. 
 Reconcilation
+
+React Fiber
